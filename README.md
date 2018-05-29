@@ -1,5 +1,4 @@
 # IMPORTANT NOTE
-
 The AVS Device SDK supports wake word detectors from Sensory and KITT.ai, but not support platform of A113D.  
 In this project, used CMU Sphinx to achieved.
 
@@ -48,6 +47,5 @@ export PKG_CONFIG_SYSROOT_DIR="${TOOLCHAIN_PATH}/arm-linux-gnueabihf/sysroot"
 
 
 # CITE SOURCES
-
 [AVS Device SDK](https://github.com/alexa/avs-device-sdk)  
 [CMU Sphinx](https://cmusphinx.github.io/)
